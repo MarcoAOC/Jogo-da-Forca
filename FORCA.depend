@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1434936185 source:c:\users\adriane\desktop\c\jogo da forca final\forca\forca.c
+	"forca.h"
+
+1434935905 c:\users\adriane\desktop\c\jogo da forca final\forca\forca.h
+
+1434936414 source:c:\users\adriane\desktop\c\jogo da forca final\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"forca.h"
+
+1435020175 source:c:\users\adriane\desktop\c\programas finais\jogo da forca final\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"forca.h"
+
+1435017938 c:\users\adriane\desktop\c\programas finais\jogo da forca final\forca\forca.h
+
+1435020087 source:c:\users\adriane\desktop\c\programas finais\jogo da forca final\forca\forca.c
+	"forca.h"
+	<stdlib.h>
+	<stdio.h>
+
+1435125251 source:c:\users\adriane\desktop\programas finais\jogo da forca final\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"forca.h"
+
+1435124104 c:\users\adriane\desktop\programas finais\jogo da forca final\forca\forca.h
+
+1435125184 source:c:\users\adriane\desktop\programas finais\jogo da forca final\forca\forca.c
+	"forca.h"
+	<stdlib.h>
+	<stdio.h>
+
+1435125184 source:c:\users\pid-05\desktop\programas finais\jogo da forca final\forca\forca.c
+	"forca.h"
+	<stdlib.h>
+	<stdio.h>
+
+1435124104 c:\users\pid-05\desktop\programas finais\jogo da forca final\forca\forca.h
+
+1435125251 source:c:\users\pid-05\desktop\programas finais\jogo da forca final\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"forca.h"
+
